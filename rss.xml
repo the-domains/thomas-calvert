@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Thomas Calvert]]></title>
-        <description><![CDATA[Thomas Calvert]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My personal test site]]></title>
+        <description><![CDATA[My personal test site]]></description>
+        <link>https://thegrid.ai/thomas-calvert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 12:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 12:35:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thomas-calvert/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zhu Yuanzhang, Founder of the Ming Dynasty, His Times and Legacy ]]></title>
+            <description><![CDATA[<article><h1>Zhu Yuanzhang, Founder of the Ming Dynasty, His Times and Legacy </h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/thomas-calvert/zhu-yuanzhang-founder-of-the-ming-dynasty-his-times-and-le/index.html</link>
+            <guid isPermaLink="false">df67fbf9-2ac0-4ed2-a1a2-127212e191af</guid>
+            <pubDate>Thu, 12 May 2016 12:34:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39c0277-7fd9-4726-a849-9b0d9ea2468b.jpg">]]></description>
-            <link>undefinedthis-is-a-testan-amazing-thing-has-happened/index.html</link>
+            <link>https://thegrid.ai/thomas-calvert/this-is-a-testan-amazing-thing-has-happened/index.html</link>
             <guid isPermaLink="false">9357a20a-3650-44c5-ae3e-193ceb52fafc</guid>
             <pubDate>Thu, 12 May 2016 12:22:26 GMT</pubDate>
         </item>
