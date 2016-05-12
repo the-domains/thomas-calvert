@@ -1,0 +1,28 @@
+name: Thomas Calvert
+favicon: null
+layout_spectrum: 0.009121181908994913
+typography_spectrum: 0.5037558686453849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6810368082951754
+  lightness: 0.11442165006883442
+  saturation: 0.006896457867696881
+  rhythmicContrast: 0.10878274496644735
+purpose: []
